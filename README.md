@@ -1,5 +1,5 @@
 Technologies Used:
-    -> HTML
+    \n-> HTML
     -> CSS
     -> JavaScript
 
